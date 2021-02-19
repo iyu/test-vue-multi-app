@@ -36,6 +36,15 @@ Vue CLI v4.5.11
 
 Vue CLI v4.5.11
 ```
+### multi apps
+app1
+```shell
+npm run serve:app1
+```
+app2
+```shell
+npm run serve:app2
+```
 
 ## Project setup
 ```
